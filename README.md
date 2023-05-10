@@ -4,8 +4,11 @@
     </a>
 </div>
 <h1 align="center">Hi 👋, I'm Ertugrul Demir</h1>
+<p align="center">
+  <img src="images/GAN_Face_ultra_light.gif" alt="SD"">
+</p>
 <h3 align="center">A Passionate Data Scientist From Turkey</h3>
-<img align="right" alt="SD"   src="images/GAN_Face_light.gif">
+
 
 - Personal Portfolio Website [ertugruldmr.github.io/ertugrul_portfolio_website/](https://ertugruldmr.github.io/ertugrul_portfolio_website/)
 
