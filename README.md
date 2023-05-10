@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Ertugrul Demir</h1>
 <h3 align="center">A Passionate Data Scientist From Turkey</h3>
-<img align="right" alt="Coding" width="400" src="images/GAN_Face.gif">
+<img align="right" alt="Coding" width="400" src="images/GAN_Face_light.gif">
 
 - Personal Portfolio Website [ertugruldmr.github.io/ertugrul_portfolio_website/](https://ertugruldmr.github.io/ertugrul_portfolio_website/)
 
