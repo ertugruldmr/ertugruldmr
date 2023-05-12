@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Advanced Deep Learning Concepts (GANs, VAE etc...)**
 
-- 👨‍💻 Data Science Portfolio Projects (30+) with live demo at [datascienceprojects](https://ertugruldmr.github.io/ertugrul_portfolio_website/post/datascienceprojects/)
+- 👨‍💻 Data Science Portfolio Projects (30+) with live demo at [datascienceprojects](https://ertugruldmr.github.io/ertugrul_portfolio_website/post/datascienceprojects/) or [HF spaces](https://huggingface.co/ErtugrulDemir)
 
 - 📝 I have been trying to write articles on [medium](https://medium.com/@ertugrulbusiness)
 
